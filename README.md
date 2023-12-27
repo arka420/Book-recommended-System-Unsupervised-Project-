@@ -1,6 +1,6 @@
 # Book-recommended-System-Unsupervised-Project-
 <p align="center">
-  <img src="https://i.pinimg.com/originals/24/9a/74/249a74f48f753ecc5a746784bd5c6594.jpg" alt="Description of the image">
+  <img src="https://i.pinimg.com/originals/24/9a/74/249a74f48f753ecc5a746784bd5c6594.jpg" alt="Description of the image" width="150" height="100">
 </p>
 
 ## Description:
