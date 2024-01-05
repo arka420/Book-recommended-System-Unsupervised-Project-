@@ -15,7 +15,6 @@ For Books Table:
 * Check for the number of null values in each column. There comes only 3 null values in the table. Replace these three empty cells with ‘Other’.
 * Check for the unique years of publications. Two values in the year column are publishers. Also, for three tuples name of the author of the book was merged with the title of the book. Manually set the values for these three above obtained tuples for each of their features using the ISBN of the book.
 * Convert the type of the years of publications feature to the integer.
-* By keeping the range of valid years as less than 2022 and not 0, replace all invalid years with the mode of the publications that is 2002.
 
 
 For Users Table:
@@ -41,9 +40,6 @@ The dataset was filtered according to a given place (city, state, or country) an
 
 * ##### Books By the Same Author, Publisher of Given Book Name <br>
 For this model, we have sorted the books by rating for the same author and same publisher of the given book and recommended top n books.
-
-* ##### Popular Books Yearly <br>
-This is the most basic model in which we have grouped all the books published in the same year and recommended the top-rated book yearly.
 
 #### Recommendation using Average Weighted Rating
 We have calculated the weighted score using the below formula for all the books and recommended the books with the highest score.
